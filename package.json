@@ -1,0 +1,22 @@
+{
+  "name": "aaro7_frontendassignment",
+  "version": "1.0.0",
+  "description": "reactjsapp using parcel",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.4",
+    "papaparse": "^5.5.2",
+    "react": "^19.1.0",
+    "react-bootstrap": "^2.10.9",
+    "react-dom": "^19.1.0"
+  }
+}
